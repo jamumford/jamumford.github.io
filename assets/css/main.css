@@ -121,9 +121,9 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color:#800020;
+	background-color:#800080;
 	/*background-color: #1abc9c;*/
-	border-color: #800020;
+	border-color: #800080;
 }
 
 .navbar-inverse .navbar-nav > li > a {
